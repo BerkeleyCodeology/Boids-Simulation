@@ -40,6 +40,8 @@ We learned a lot of different things while working on this project; we got to br
 
 If you're looking at this project in the future, feel free to download it and work on it yourself; some interesting features you can add: object detection and avoidance, death upon veering away from a cluster, predators/prey/food (some survival system), and much more. 
 
+The labs/slides we provided to our team is linked <a href="https://drive.google.com/drive/folders/1SalFw94R6eWkNtrvqDdWp6yItYKvSBMi?usp=sharing"> here </a>
+
 ## Installation
 
 Install Unity, if you haven't done so already; download the project and then simply import it and run. 
