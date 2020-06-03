@@ -10,7 +10,7 @@ Boids is a classic project explored in many computer science courses around the 
 
 Birds in real life tend to flock together but also exhibit avoidance from their neighbors and tending towards the general direction of the clock; evolutionarily, birds that stray from the pack probably don’t make it too long and those that hit others can't fly very effectively. In general, this is represented in lots of migrational patterns, from fish to butterflies to birds and even bacteria! More specifically, living organisms seemingly gravitate towards the center of mass of a particular flock; as they move, they go with the flow of where the center is and follow the pack, separating themselves as needed. The project is also just really relaxing to look at if you're running it in the background; feel free to use a gif of it as your screensaver! 
 
-# Behavior 
+## Behavior 
 
 Boids exhibit three behaviors: avoidance, direction and cohesion; we describe them briefly here. 
 
